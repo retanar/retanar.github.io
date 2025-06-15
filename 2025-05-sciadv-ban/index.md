@@ -56,15 +56,17 @@ R;N had a moment with weird emails, that contained only garbled text in them. I 
 <details>
 <summary>Spoilers to R;N Elite</summary>
 
-You should remember these emails from Airi:
+<p>You should remember these emails from Airi:</p>
 
-![R;N encoded email](res/R;N-encoded-email.png)
+<img alt="R;N encoded email" src="res/R;N-encoded-email.png">
 
-They are encoded in UTF-7 - a format to be used for... _emails_. You may find the exact text in some server or channel, maybe even get it yourself from the script. I unfortunately don't know where I can find it. At any rate, I can provide the decoded version, which consists of three sentences:
+<p>They are encoded in UTF-7 - a format to be used for... _emails_. You may find the exact text in some server or channel, maybe even get it yourself from the script. I unfortunately don't know where I can find it. At any rate, I can provide the decoded version, which consists of three sentences:</p>
 
-1) (EY CAN YOU HEAR ME $O YOU HEAR MY VOICE
-2) (EYY (ELLOOO )S MY VOICE NOT REACHING YOU
-3) )F YOU CAN HEAR ME RAISE BOTH ARMS AND YOUR RIGHT LEG AND DO THE #RANE 3TANCE )F YOU DO ) WILL DO THE SAME
+<ol>
+<li>(EY CAN YOU HEAR ME $O YOU HEAR MY VOICE</li>
+<li>(EYY (ELLOOO )S MY VOICE NOT REACHING YOU</li>
+<li>)F YOU CAN HEAR ME RAISE BOTH ARMS AND YOUR RIGHT LEG AND DO THE #RANE 3TANCE )F YOU DO ) WILL DO THE SAME</li>
+</ol>
 
 </details>
 
@@ -88,16 +90,16 @@ I even created a comparison of top counters during 0-100000 time, you can find t
 
 **Top 10 counters from 100k session.**
 
-1) \_DaNeko_#1901: 22320 numbers
-2) Buzz#1014: 15080 numbers
-3) VladLapynov#2070: 13097 numbers
-4) The_Lurker#3228: 6671 numbers
-5) tokamak#5132: 5734 numbers
-6) -Salem-#2036: 3348 numbers
-7) ! ! ProbablySora#7691: 3005 numbers
-8) Mariofluffy#7230: 2798 numbers
-9) kuroblakka#4381: 2795 numbers
-10) isisancheza#4324: 2615 numbers
+1. \_DaNeko_#1901: 22320 numbers
+2. Buzz#1014: 15080 numbers
+3. VladLapynov#2070: 13097 numbers
+4. The_Lurker#3228: 6671 numbers
+5. tokamak#5132: 5734 numbers
+6. -Salem-#2036: 3348 numbers
+7. ! ! ProbablySora#7691: 3005 numbers
+8. Mariofluffy#7230: 2798 numbers
+9. kuroblakka#4381: 2795 numbers
+10. isisancheza#4324: 2615 numbers
 
 After reaching 100k, a poll was put out about rotating counting channel with a new channel #one-word-story every two months. And it succeeded. Point of the new channel was to post one word per message to create sentences and hopefully a story.
 
@@ -196,19 +198,19 @@ Some of the things that were changed in C;H and C;C were explained on their webs
 <details>
 <summary>C;H Noah and C;C spoilers ahead</summary>
 
-The link to their website is [here](https://sonome.dareno.me/2022/05/01/chaos-case-names-masterpost.html). However, you are also encouraged to visit previous versions of the website on the [wayback machine](https://web.archive.org/web/20220501211028/https://sonome.dareno.me/2022/05/01/chaos-case-names-masterpost.html). These changes have caused a few controversies, however anyone mentioning them is quick to be silenced by the community and CoZ members.
+<p>The link to their website is <a href="https://sonome.dareno.me/2022/05/01/chaos-case-names-masterpost.html">here</a>. However, you are also encouraged to visit previous versions of the website on the <a href="https://web.archive.org/web/20220501211028/https://sonome.dareno.me/2022/05/01/chaos-case-names-masterpost.html">wayback machine</a>. These changes have caused a few controversies, however anyone mentioning them is quick to be silenced by the community and CoZ members.</p>
 
-Next is a screenshot from discord.
+<p>Next is a screenshot from discord.</p>
 
-![](res/terminology-changes.png)
+<img src="res/terminology-changes.png">
 
-Some questionable decisions, in my opinion, which CoZ seems to not be able to explain in a satisfying way. In addition, the consistency that they claim to support with their patches, here is clearly disturbed in favor of the _new_ consistency. Should I even mention changing the iconic "If you are god..." subtitle by CoZ?
+<p>Some questionable decisions, in my opinion, which CoZ seems to not be able to explain in a satisfying way. In addition, the consistency that they claim to support with their patches, here is clearly disturbed in favor of the _new_ consistency. Should I even mention changing the iconic "If you are god..." subtitle by CoZ?</p>
 
-One more thing, the unnecessary renaming of Committee's name in Sena's route. What originally was "禁（０漸Ｖ・＄" became:
+<p>One more thing, the unnecessary renaming of Committee's name in Sena's route. What originally was "禁（０漸Ｖ・＄" became:</p>
 
-![Changed Committee name by CoZ](res/noah-coz-committee-name.png) 
+<img src="res/noah-coz-committee-name.png" alt="Changed Committee name by CoZ">
 
-This is especially painful for me, who after decoding R;N thing described earlier, tried decoding this. Unfortunately unsuccessfully, however I still believe it's doable. Meanwhile CoZ, who certainly didn't even try to decode it, instead of leaving it as is, decided that it's okay to change it to a random thing.
+<p>This is especially painful for me, who after decoding R;N thing described earlier, tried decoding this. Unfortunately unsuccessfully, however I still believe it's doable. Meanwhile CoZ, who certainly didn't even try to decode it, instead of leaving it as is, decided that it's okay to change it to a random thing.</p>
 
 </details>
 
@@ -296,13 +298,13 @@ For whatever reason, I decided to design and build my own keyboard. And switch t
 <details>
 <summary>A lot of keyboard/tech words completely unrelated to SciAdv.</summary>
 
-Brainwashed by people explaining where did QWERTY layout come from and why rows are weirdly shifted (staggered), I became interested in ortholinear keyboards. But keyboard world is weird. First of all, prices - everything unusual costs half a leg. Second, general bias of ortho community towards smaller keyboards. I don't know why or how people are using keyboards with 40 keys and less, when 61 key (60%) keyboards are already weird to use. Third, designing a key arrangement myself means ability to measure distances accordingly to my hands and fingers.
+<p>Brainwashed by people explaining where did QWERTY layout come from and why rows are weirdly shifted (staggered), I became interested in ortholinear keyboards. But keyboard world is weird. First of all, prices - everything unusual costs half a leg. Second, general bias of ortho community towards smaller keyboards. I don't know why or how people are using keyboards with 40 keys and less, when 61 key (60%) keyboards are already weird to use. Third, designing a key arrangement myself means ability to measure distances accordingly to my hands and fingers.</p>
 
-So, I stumbled upon idea of building a keyboard myself, learned, made PCB design, calculated first costs, shocked myself cause it was close to $100, still kept at it, while trying to reduce some costs, finally got everything, and soldered it together. The result was... not great. I did not learn 3D modeling, even though I tried, so I didn't have a case, and switches were soldered directly on the pcb. For a month the keyboard was laying directly on pcb with diodes, then I got little standoffs, covered pcb with foam supported by screwed standoffs, so now keyboard is standing on them. Usability was tough, I couldn't get used to it.
+<p>So, I stumbled upon idea of building a keyboard myself, learned, made PCB design, calculated first costs, shocked myself cause it was close to $100, still kept at it, while trying to reduce some costs, finally got everything, and soldered it together. The result was... not great. I did not learn 3D modeling, even though I tried, so I didn't have a case, and switches were soldered directly on the pcb. For a month the keyboard was laying directly on pcb with diodes, then I got little standoffs, covered pcb with foam supported by screwed standoffs, so now keyboard is standing on them. Usability was tough, I couldn't get used to it.</p>
 
-Colemak layout was also not great. You begin to realize how many things are relying on and exclusively using Qwerty. Some things change shortcuts to new keys on Colemak, but revert to Qwerty if I change keyboard to another language, like to Ukrainian. Then there is IntelliJ, which uses a single layout for shortcuts, probably the one you had at the moment of it starting up. Bios, first lock screen on Gnome use Qwerty only. Japanese IME on linux uses last layout, so Colemak can work, while on Windows it's only Qwerty. And so on.
+<p>Colemak layout was also not great. You begin to realize how many things are relying on and exclusively using Qwerty. Some things change shortcuts to new keys on Colemak, but revert to Qwerty if I change keyboard to another language, like to Ukrainian. Then there is IntelliJ, which uses a single layout for shortcuts, probably the one you had at the moment of it starting up. Bios, first lock screen on Gnome use Qwerty only. Japanese IME on linux uses last layout, so Colemak can work, while on Windows it's only Qwerty. And so on.</p>
 
-Results: Colemak will bring issues. Custom keyboard - even more issues. Only if you really have nothing to do, or in dire need, try Colemak (DH mod) first, keyboard building second.
+<p>Results: Colemak will bring issues. Custom keyboard - even more issues. Only if you really have nothing to do, or in dire need, try Colemak (DH mod) first, keyboard building second.</p>
 
 </details>
 
