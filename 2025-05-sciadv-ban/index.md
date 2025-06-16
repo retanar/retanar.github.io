@@ -1,9 +1,15 @@
 # How to get banned from the main SciAdv server and regret nothing
 
-or Records of a certain SciAdv fan
+or Records of a certain SciAdv fan  
 or From Retanar to goddamned everyone
 
-an imprecise chronological story of events in my life during 2020-2025
+An imprecise chronological story of events in my life during 2020-2025.
+
+First published in June 2025.
+
+#### Note
+
+This page will be updated, and may be rewritten or deleted. Link to this page may be changed. The git repository's history may be changed or removed. I cannot guarantee anything. If you want this page to not be lost or want to preserve it as it is right now, you are welcome to download it as HTML or copy the repository.
 
 ### Introduction
 
@@ -131,7 +137,7 @@ One day I got into a conversation revolving about who knows what. As a part of i
 
 Some other people were complaining about certain CoZ members, like rigs and Enorovan, for being too arrogant, haughty, having privileges in the main server (which is run by CoZ members, so not surprising). About entire group being slow to translate. My own opinion was that we would never get C;C LCC from them, because they didn't care about people.
 
-![Screenshot of my words illustrating the above opinion](my-coz-lcc-opinion.png)
+![Screenshot of my words illustrating the above opinion](res/my-coz-lcc-opinion.png)
 
 Community, which includes CoZ, were quick to attack other people for having "wrong" opinions/beliefs, like not wanting to install CoZ patches for S;G VNs, which had the best original translation out of SciAdv vns.
 
@@ -252,7 +258,7 @@ I left the main server (for the second time) cause I had enough.
 
 ### counting-channel 4
 
-![](res/counting-skinned-alive.webp)
+!["holy moly, one year anniversary of counting discussion being skinned alive"](res/counting-skinned-alive.webp)
 
 ### Noah translation patch release by CoZ
 
@@ -283,7 +289,7 @@ Even less happened this year.
 
 ### Games I'd dropped, life I'd not lived
 
-Job was taking a some of my time, and contributed to my overall tiredness. I had been bored with usual media like anime, games, visual novels for a long while. Still am. But what I had been (moderately) proud of, was finishing whatever game/anime I started.
+Job was taking some of my time, and contributed to my overall tiredness. I had been bored with usual media like anime, games, visual novels for a long while. Still am. But what I had been (moderately) proud of, was finishing whatever game/anime I started.
 
 Not anymore. By 2024, my vndb accumulated 3 VNs that I started, **liked**, but never finished fully, and another VN that had received its last chapter, that I didn't have a will to read. Similar story with games, I would start a game, have some fun with it, and become unwilling to continue it. Some of those were fair choices, like games without a clear end - Cuisineer. Others were not logical - Ghost of Tsushima, looked very forward to it, stopped playing after finishing a third of it.
 
@@ -324,6 +330,12 @@ But wait! The above was about their second report on LCCs. They had another repo
 
 Now for a little bigger speculation from me. I don't think CoZ tries to release one VN before another. Quite the opposite: they may be going for a double release. Otherwise I can't imagine a good explanation for why had CoZ switched from prioritizing C;H LCC, which in their own words runs perfectly on PS3 emulator, to fully finishing C;C LCC that has to wait for the engine to finish.
 
+I still have some examples of old messages from CoZ about LCCs and Chaos; material coming in 202X. _maybe!_
+
+![Message by Enorovan "who cares anyway, Noah, LCCs, Memoirs, Revive in English 202X"](res/lcc-and-more-coming-in202x.png)
+
+![Messages by Enorovan about LCC "Coming from your friends CoZ in 202X. maybe!"](res/lcc-coming-in-202x-maybe.png)
+
 ## 2025
 
 3rd year of war, peace in 24 hours, peace in 100 days, still AI boom, layoffs, nostalgia, 28 summers.
@@ -342,7 +354,7 @@ Well, being the meme guy that I am, I shortly joined the server to post the foll
 
 ![Peter Parker by Tobey saying "Gonna cry?" in French](res/gonna-cry-french.png)
 
-The history of this image is that I was muted once by Zips for posting "Gonna cry?" gif as a response to him, in January 2022. At that time I also made a French version as a joke, and it had been in my possession since then. So this was a direct attack, yes.
+The history of this image is that I was muted once by Zips for posting "Gonna cry?" gif as a response to him, in January 2022. At that time I also made a French version (the image above) as a joke, and it had been in my possession since then. So this was a direct attack, yes.
 
 Fast-forward to May, while trying to rejoin the server, I caught an error. The link then appeared to be broken and mentioned "user is banned". Now that's a twist. I tried to recheck, if anything was broken, and no, I was actually banned. And looking at my messages, since 2024 I hadn't written anything in the server, except for the now deleted "Gonna cry?" image. Immediately, my thought was that Zips banned me for it. And after asking around, I didn't get a clear response about the reason for the ban, as if Zips himself doesn't know what he banned me for. Therefore I take it that I trolled Zips well enough, which can't not bring a smile to my face.
 
