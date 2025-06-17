@@ -51,7 +51,7 @@ Here is where things started being weird. People were discouraged to read R;N be
 
 The patch itself was painful to install, as CoZ was not willing to support any pirated version, despite them being identical to the original. So when I tried to install the patch, it didn't seem like any patch was applied at all. After lucky help from a member, I managed to install it by... moving the game into Steam game folder and setting game folder name to a correct one: `ROBOTICS;NOTES ELITE`. And suddenly the patch was activated successfully. Makes me wonder how could you make a patch in such a way, that it wouldn't work depending on the game placement or a folder name.
 
-And then came numerous patch updates, all were uploaded to GitHub only, which by this day gives me no more than 1.7 MB/s download speed. You can do the math how long does it take to download 700 or 800 MB, then add some time for installation before you can finally play. Furthermore, CoZ launcher constantly had an annoying popup when a new version was released, so it was bothersome to ignore updates. Not a great experience.
+And then came numerous patch updates, all were uploaded to GitHub only, which to this day gives me no more than 1.7 MB/s download speed. You can do the math how long does it take to download 700 or 800 MB, then add some time for installation before you can finally play. Furthermore, CoZ launcher constantly had an annoying popup when a new version was released, so it was bothersome to ignore updates. Not a great experience.
 
 But the patch did what it promised to do. It fixed translation errors, added mouse support, replaced less pretty default font, and edited untranslated images. Wasn't a lot to complain.
 
@@ -66,7 +66,7 @@ R;N had a moment with weird emails, that contained only garbled text in them. I 
 
 <img alt="R;N encoded email" src="res/R;N-encoded-email.png">
 
-<p>They are encoded in UTF-7 - a format to be used for... _emails_. You may find the exact text in some server or channel, maybe even get it yourself from the script. I unfortunately don't know where I can find it. At any rate, I can provide the decoded version, which consists of three sentences:</p>
+<p>They are encoded in UTF-7 - a format to be used for... <em>emails</em>. You may find the exact text in some server or channel, maybe even get it yourself from the script. I unfortunately don't know where I can find it. At any rate, I can provide the decoded version, which consists of three sentences:</p>
 
 <ol>
 <li>(EY CAN YOU HEAR ME $O YOU HEAR MY VOICE</li>
@@ -78,7 +78,7 @@ R;N had a moment with weird emails, that contained only garbled text in them. I 
 
 ### Divergence Meter development
 
-Because I was into android development, for now unknown to me reason, probably during my reading of S;G, I decided to make a widget with divergence meter. In April 2020 I made initial commit to my git repository. In a few weeks I had a minimally working app. It was quite interesting, although messy.
+Because I was into android development, I decided to make a widget with divergence meter, for now unknown to me reason, probably during my reading of S;G. In April 2020 I made initial commit to my [git repository](https://github.com/retanar/Divergence_Meter/). In a few weeks I had a minimally working app. It was quite interesting to work on, although code was messy.
 
 By April 2021, I stopped working on it completely. There wasn't a lot I wanted to add, and some things seemed too hard to begin. The app worked fine already, so why touch it.
 
@@ -107,7 +107,7 @@ I even created a comparison of top counters during 0-100000 time, you can find t
 9. kuroblakka#4381: 2795 numbers
 10. isisancheza#4324: 2615 numbers
 
-After reaching 100k, a poll was put out about rotating counting channel with a new channel #one-word-story every two months. And it succeeded. Point of the new channel was to post one word per message to create sentences and hopefully a story.
+After reaching 100k, a poll was put out about rotating counting channel with a new channel #one-word-story every two months. And it succeeded. Point of the new channel was to post one word per message to create sentences and hopefully a story. Sure, few counting fans, including me, didn't like the new channel and rotation, but it wasn't the end.
 
 ### Reading Chaos;Head Noah, moving to Love Chu Chus, and finishing SciAdv
 
@@ -117,7 +117,7 @@ It was quite tough, but totally worth it. Ended up spending about 180 hours in 3
 
 So me and 2 of my friends waited for each other to finish Noah, and went ahead to read Chaos;Head Love Chu Chu (C;H LCC) together. Didn't go as smoothly as I expected, however in the end we all did finish it _somehow_. After that, into C;C LCC I was going alone.
 
-The situation around Chaos;Child Love Chu Chu was tough in 2021, comparing to the following years, there was no real way to run it on PC. It was only released for PS4 and PS Vita, with non existent and not working emulators respectively. But of course CoZ couldn't forget to mention that they are working on their own engine that would allow to run LCC games, sometimes saying that it actually works.
+The situation around Chaos;Child Love Chu Chu was tough in 2021, comparing to the following years: there was no real way to run it on PC. It was only released for PS4 and PS Vita, with non existent and not working emulators respectively. But of course CoZ couldn't forget to mention that they are working on their own engine that would allow to run LCC games, sometimes saying that it actually works.
 
 In reality, nothing was working for a general user. Seemed like CoZ developers weren't interested in working on it. They could write that many features were working and post updates, but out of the box there was no way to run anything.
 
@@ -139,15 +139,15 @@ Some other people were complaining about certain CoZ members, like rigs and Enor
 
 ![Screenshot of my words illustrating the above opinion](res/my-coz-lcc-opinion.png)
 
-Community, which includes CoZ, were quick to attack other people for having "wrong" opinions/beliefs, like not wanting to install CoZ patches for S;G VNs, which had the best original translation out of SciAdv vns.
+Additionally, SciAdv community, which includes CoZ and mostly is run by them, was quick to attack other people for having "wrong" opinions/beliefs, like not wanting to install CoZ patches for S;G VNs, which had the best original translation out of SciAdv VNs. Pretty much any mention of running VNs without patches was met with people telling to install a patch and that it's stupid not to do it.
 
-### People that we lost
+### People that we lost 1
 
-In 2021 I have started to accumulate direct messages (DM) with now deleted accounts. Because I can't tell when an account was deleted, I will sort them based on when was the last message in our chat. Each heading will have a username that is now displayed by discord for deleted accounts, looking like deleted_user_\<some number sequence\>.
+In 2021 I have started to accumulate direct messages (DM) with now deleted accounts. Because I can't tell when an account was deleted, I will sort them based on when was the last message in our chat. Each heading will have a username that is now displayed by discord for deleted accounts, at least for me, looking like deleted_user_\<some number sequence\>.
 
 #### deleted_user_5998b66b0544
 
-First one is a new account of a weird guy previously nicknamed "TakumiNishijou", previously maybe "John Titor". As far as I remember, his first account was spamming in the main servers' spoiler channels, second account started doing similar things later, spamming with A;C spoiler tags for anything. The reason why I even have this chat and know this information is that our DM started with me sharing Noah SD port files with him. After 5 minutes he revealed to me his identity. It didn't go well from there, when he started spamming in servers and occasionally in our chat.
+First one is a new account of a weird guy previously nicknamed "TakumiNishijou", and before that maybe "John Titor". As far as I remember, his first account was spamming in the main servers' spoiler channels, second account started doing similar things later, spamming with A;C spoiler tags for anything. The reason why I even have this chat and know this information is that our DM started with me sharing Noah SD port files with him. After 5 minutes he revealed to me his identity. It didn't go well from there, when he started spamming in servers and occasionally in our chat.
 
 #### deleted_user_60294190b622
 
@@ -220,13 +220,13 @@ Some of the things that were changed in C;H and C;C were explained on their webs
 
 </details>
 
-### Other servers 2
+### Side servers 2
 
 In a peculiar turn of events I was banned from AAA server. So that is one less server connected to SciAdv. The ban wasn't uncalled for, I basically laid down my issues with the server and/or server owner in a bit impolite, not rude manner, and the owner decided to not handle it or me.
 
 No other server really stuck to me, even though I didn't try many, so I had never become anyone else except SciAdv guy. Only exception was joining S;G France server, on the day when bigger war started, as a joke.
 
-### People that we lost
+### People that we lost 2
 
 #### deleted_user_fbef73fe6cec
 
@@ -273,7 +273,7 @@ CoZ's "smallest" patch took almost 4 months to release (with a ~~day~~ week 1 up
 
 By this time, I was very uninterested and uninvolved in SciAdv community, so I had no idea what the general reception of A;C was like (I still don't know much, only that it's not hated), or what are relations to other entries.
 
-### People that we lost
+### People that we lost 3
 
 #### deleted_user_09da0be7700b
 
@@ -314,7 +314,7 @@ For whatever reason, I decided to design and build my own keyboard. And switch t
 
 </details>
 
-### Other servers
+### Side servers 3
 
 I rejoined Trigonometry, due to previously having a Monogatari watching channel there, and Monogatari getting a new season, so I asked to continue it. Moderately missed people and discussions too, certainly didn't miss some users.
 
@@ -364,7 +364,7 @@ However, this finally puts a stop to my journey, at least in the main SciAdv ser
 
 So, how to get banned? Describing my experience: use your brain, don't mindlessly accept what everyone says as true, form your own opinion - different from the accepted, voice your opinion, and rub the right people wrong at the right time.
 
-And how to regret nothing? Same answer, basically. After you form your own opinion, you stop fitting in anymore, so get as much friends as you can and flee with them. Or just keep on liking the series alone, which may happen even with friends from SciAdv, who never finished. Or flee away from SciAdv too, to not even associate yourself with the community anymore.
+And how to regret nothing? Same answer, basically. After you form your own opinion, you stop fitting in anymore, so get as many friends as you can and flee with them. Or just keep on liking the series alone, which may happen even with friends from SciAdv, who never finished. Or flee away from SciAdv too, to not even associate yourself with the community anymore.
 
 Since starting with S;G anime and until now, I had read all SciAdv VNs that I wanted to read. Perhaps too early, finishing most in 2021, but seeing how a bigger war started, maybe that was for the best.
 
